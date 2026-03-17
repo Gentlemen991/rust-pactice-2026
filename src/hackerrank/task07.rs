@@ -53,4 +53,4 @@ mod tests {
         let b = [24, 48];
         assert_eq!(count_numbers_between_sets(&a, &b), 2);
     }
-}
+} 
