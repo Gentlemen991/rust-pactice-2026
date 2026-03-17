@@ -38,4 +38,4 @@ mod tests {
         let season_scores = [3, 4, 21, 36, 10, 28, 35, 5, 24, 42];
         assert_eq!(breaking_records(&season_scores), vec![4, 0]);
     }
-}
+} 
